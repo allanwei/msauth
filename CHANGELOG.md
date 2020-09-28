@@ -1,6 +1,7 @@
-## [0.0.1] - TODO: Add release date.
+# MSAUTH
 
-* TODO: Describe initial release.
-## [0.0.2] - Add Get User function.
+## 0.0.1
 
-* Get User information from Cache or online.
+## 0.0.2
+
+* Auth0 for AADA
